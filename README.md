@@ -1,7 +1,7 @@
 <img align="center" style="margin-bottom:100px" width=100% src="https://i.ibb.co/VTkQ2HQ/Sem-t-tulo-2.png" />
 &nbsp;&nbsp;&nbsp;
 
-<p align="center">Eu ❤️ resolver grandes desafios usando tecnologia. <br> Desde o desenvolvimento de BackEnd com NodeJS até o desenvolvimento de FrontEnd com ReactTS, tenho <strong>paixão por descobrir novidades</strong> e utilizá-las para criar soluções de alta qualidade. Atualmente, sou um <strong>Desenvolvedor Web Full-Stack</strong> concentrado no DESENVOLVIMENTO WEB.</p>&nbsp;
+<h3 align="center">Eu ❤️ resolver grandes desafios usando tecnologia. <br> Desde o desenvolvimento de BackEnd com NodeJS até o desenvolvimento de FrontEnd com ReactTS, tenho <strong>paixão por descobrir novidades</strong> e utilizá-las para criar soluções de alta qualidade. Atualmente, sou um <strong>DESENVOLVEDOR WEB FULL-STACK</strong> concentrado no DESENVOLVIMENTO WEB.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=WellingtonBarbosaCarvalho&theme=radical&mode=weekly" />
